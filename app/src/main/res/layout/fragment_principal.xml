@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+
+    <ImageView
+        android:id="@+id/principalimg"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        app:srcCompat="@drawable/principal" />
+    <ScrollView
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:layout_below="@+id/principalimg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/aboutrv"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="\nRVCE Principal\n\nDr. K.N. Subramanya\nPrincipal\nProfessor, Dept. of Industrial Engineering and Management,\nR. V. College of Engineering, Mysore Road, Bengaluru – 560 059.\n\nPhone: 91-080-67178161;\nMobile: +91- 9663699299\ne- mail:  principal@rvce.edu.in\n\tsubramanyakn@rvce.edu.in\n\n\n\n
+Dr. K.N. Subramanya had early education in Acharya High School and AES National College-Gauribidanur. Then he pursued B.E in Industrial and Production Engineering from Bangalore University, M.Tech in Industrial Management from IITM-Chennai, MBA from Karnataka State Open University-Mysuru, with HR specialization (5th Rank) and Ph.D. from Avinashilingam University-Coimbatore. He did his Proficiency Courses on ‘Engineering Consultancy Practice and Non-Destructive Testing’ from Indian Institute of Science, NPTEL online Certification course on ‘Educational Leadership’. Has total 27 years of experience in Teaching, Training and Consultancy, Research and Administration. Having Strong communication and presentation skills, effective collaboration and team building capabilities with zeal to adapt to latest technological and leadership concepts and utilise the same in a productive and effective manner for the progress of the institution.\n\n
+Presently working as Principal, R V College of Engineering, Bengaluru. Served the Institution in various capacities including Lecturer, Sr. Lecturer, Assistant Professor, Director (Administration), Professor and Head of the Department of IEM and Vice Principal. Worked as Lecturer in the Dept. of Industrial Engineering and Management, Dayananda Sagar College of Engineering-Bengaluru for a period of 4½ years.\n\n
+Academic and Research expertise includes Lean Manufacturing and Operations Management, Supply Chain and Logistics Management, e-Enterprise Modelling of B2B and B2C Markets, Simulation Modelling and Analysis, Quality Management, Information System Design, Decision Sciences, Applied Ergonomics, Systems Engineering, Strategic Management and allied Industrial Engineering and Information Technology areas. Has guided more than 100 UG and PG projects.\n\n
+Actively involved in Research and guiding 3 Research Scholars under VTU-Belagavi and 1 Research Scholar under Jain University, Published 21 Technical Papers in Refereed International Journals, 17 National Journals, Presented 51 Technical Papers in International Conferences, 26 in National Conferences and Authored chapters in four books. Executed several funded projects, consultancy assignments and co-ordinating the projects worth more than 30 crores at the institution level since two years. Published a Patent titled “Design and Development of Solar-Hybrid Refrigeration System for Preservation of Vegetables”. Also motivating faculty to undertake socially relevant research and consultancy works.\n\n
+Contributing to the governance and growth through different roles including Member of the Statutory Committees – VTU Academic Senate Member (2016-2019), Member of Admissions Committee for Ph.D. in Faculty of Management Studies of VTU (2017-2020), NAAC, UGC Expert Committee Member, VTU-LIC Committee Chairman, BITES- Board of Governance Member, VTU Nominee-Governing Council of City Engineering College, Member-FICCI Higher Education Committee, Institutional Statutory and functional committees of the college – Member Secretary, Governing Body and Chairman- Academic Council of RVCE.\n\n
+Actively involved in networking with institution through technical talks, member in various committees of other institutions, serving as member in Professional societies including ISTE, ORSI, IIMM, QCFI, IIIE, ISSE, CII and CSI. Also invited by electronic and print media for giving talks and writing articles w.r.t. Higher Education.\n\n
+He has won Awards including Performance Excellence Award from IIIE-Mumbai (2016), Dr. S.R. Gollapudi Award by IIIE-Mumbai (2013), Cognizant Award for Best Researcher, (2014) Citation Award from Vision Group on Science and Technology under K-FIST, Govt. of Karnataka (2014), Certificate of Appreciation by ISTE–RVCE Chapter (2005), ‘Excellence in Education’ and ‘Recognition of Excellence’ from R.V. College of Engineering (Multiple times).\n\n
+Actively works for NELE Foundation – an NGO and contributing to the socially deserving children.\n\n
+
+His hobbies includes Reading, Cricket, Music and visiting places.\n\n\n\n\nPrincipal's Message\n\n
+Dr. K N Subramanya is presently working as Principal and Professor, Department of Industrial Engineering and Management at R V College of Engineering. His Academic Qualification includes: Ph.D. in Supply Chain Management (Avinashilingam University, Coimbatore), MBA with HR specialization (5th Rank), M.Tech. in Industrial Management (IITM, Chennai) and B.E in Industrial and Production Engineering (Bangalore University). His 23 years of experience includes teaching, training and research. The professional expertise include Lean Manufacturing System, Operations Management, Intelligent Systems in Supply Chain and Logistics Management, e-Enterprise solutions, Simulation Modeling and Analysis, Systems Engineering, Operations Research, Probability and Statistics, Applied Ergonomics and Business Process Management.
+\n\n
+
+
+He is a research supervisor of four scholars, who are pursuing doctoral program in Lean Supply Chain Networks, Cloud SCN, Designing E-Procurement Models and Performance of B2B markets and a reviewer for IEEE International Journal on “Automation and Systems”. He has executed / executing projects and consultancy works funded by Government and private funded agencies worth more than Rs. 1.5 crores. He has published and presented more than 70 technical papers in National and International Journals / conferences. The number of corporate training programmes / faculty development programmes / technical talks conducted is more than 100. He has guided more than 100 Under-Graduate and Post-Graduate student projects and many of them have been implemented by manufacturing and service organizations. He is an active member QCFI, ORSI, ISTE, IIMs and IIIE. He holds administrative posts in various Academic, Statutory, Compliance, NBA and TEQIP Committees of the Institution and other Autonomous colleges. He has received many awards viz. Excellence in Education Award at RVCE, Best Paper Award in many National and International Conferences, Dr. S R Gollapudi Award 2013 from IIIE-India, Vision Group on Science and Technology under K-FIST Level II, Govt. of Karnataka for establishing Non Destructive Testing Laboratory for Post Graduate Courses and Research from Hon. Chief Minister of Karnataka and Bharat Ratna Prof. C N R Rao on 16th June 2014 and Cognizant award for Best Researcher from ISTE-RVCE Chapter during Teachers’ Day celebration on 30th September 2014. His other interests includes: Cricket, Music and travelling."></TextView>
+    </ScrollView>
+
+</RelativeLayout>

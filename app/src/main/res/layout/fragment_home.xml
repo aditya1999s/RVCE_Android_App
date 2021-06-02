@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+
+    <ViewFlipper
+        android:id="@+id/viewFlip"
+        android:layout_width="fill_parent"
+        android:layout_height="170dp" />
+    <ScrollView
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:layout_below="@+id/viewFlip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+<TextView
+    android:id="@+id/aboutrv"
+    android:textSize="18dp"
+    android:textColor="@color/black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="About R.V.College of Engineering \n\n Established in 1963 with three engineering branches namely Civil, Mechanical and Electrical, today RVCE offers 12 Under Graduate Engineering programmes, 16 Master Degree programmes and Doctoral Studies.Located 13 km from the heart of Bangalore City – the Silicon Valley of India, on Mysore Road.Sprawling campus spread over an area of 16.85 acres (16 acres and 34 guntas) set in sylvan surroundings.Provides an ideal ambience to stimulate the teaching-learning process, helping in bringing out skilled and disciplined Engineers. Rated one amongst the top ten self-financing Engineering Institutions in the country. Current annual student intake for Undergraduate Programmes and Post Graduate Programmes in Engineering is in excess of 1200. Highly qualified and dedicated faculty. Utilizes its expertise in various disciplines to conduct Research and Development for Industry and Defense establishments in the country.
+\n\n\n
+Vision
+\n\n
+Leadership in Quality Technical Education, Interdisciplinary Research and Innovation, with a Focus on Sustainable and Inclusive Technology
+\n\n\n
+Mission
+\n\n
+> To deliver outocme based Quality education, emphasizing on experiential learning with the state of the art infrastructure.
+\n\n
+> To create a conducive environment for interdisciplinary research and innovation.
+\n\n
+> To develop professionals through holistic education focusing on individual growth, discipline, integrity, ethics and social sensitivity.
+\n\n
+> To nurture industry-institution collaboration leading to competency enhancement and entrepreneurship.
+\n\n
+> To focus on technologies that are sustainable and inclusive, benefiting all sections of the society.
+\n\n\n
+Quality Policy
+\n\n
+Achieving Excellence in Technical Education, Research and Consulting through an Outcome Based Curriculum focusing on Continuous Improvement and Innovation by Benchmarking against the global Best Practices.
+\n\n\n
+Core Values\n\n
+Professionalism, Commitment, Integrity, Team Work, Innovation"></TextView>
+    </ScrollView>
+
+    </RelativeLayout>

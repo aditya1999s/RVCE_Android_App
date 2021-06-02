@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+
+    <ViewFlipper
+        android:id="@+id/viewFlipinfra"
+        android:layout_width="fill_parent"
+        android:layout_height="190dp" />
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/viewFlipinfra"
+        android:layout_marginTop="7dp"
+        android:layout_marginBottom="5dp"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/aboutrv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="R.V. College is spread over 16.85 acres (16 acers and 34 guntas) Ramps and lifts have been provided to help the differently abled and sick. 90% of the class rooms are provided with multimedia projectors and internet facility. All academic blocks have secured Wi-Fi connectivity.\n\n
+General Amenities include\n
+\n
+Food Court\n
+The college Food Court is designed to cater to 1000 students and staff, it is spread over 500 square meters. The college canteen is a place where students congregate to not only eat but exchange views. Our Food Court has a modern kitchen where food is steam cooked. The washed dishes are sterilized for hygienic serving. On campus we also have an extension food court counter.
+\n\n
+Apart from the Main Canteen, the Mini Canteen also caters to the needs of students and staff and is ideally located on the other side of the campus.\n
+\n\n
+Transport\n
+RVCE Transportation\n
+\n
+The campus being 12Kms from the heart of the city and more then 20Km from suburban areas of the city, the college provides transportation facility for both students and staff.There are sufficient buses which take care of commutation of about one thousand students. There are two exclusive buses for the staff.\n
+\n
+The city metropolitan transport service also runs city buses from important areas of city to the college. Some of the BMTC route numbers are 220, 221, 222, 224, 227 etc.\n
+\n\n
+Bank\n
+An on campus banking facility is provided by Kotak Mahindra Bank. The branch is listed as Kotak Mahindra, RVCE branch. It is fully computerized and air conditioned. It caters to the need around 7000 students and staff. The ATM facility is a boon to the hostelites and faculty. The bank takes care of all the college transaction. It also provides EC facility for parents and students to pay fees, hostel charges, mess bill, University fees etc.\n
+\n\n
+Post Office\n
+The campus has a branch post office, with the postal identification as R.V. Vidyaniketan P.O. The post office with an area of around 20 sqm, has the capacity to cater to the large number of inward and outward mails on a daily basis. Post Office also offers the small savings schemes.\n
+\n
+Health Center\n
+The campus has an exclusive health Center which is open to all the students and staff from 9 am to 7 pm. An Ambulence is stationed at the Health center to meet any emergencies.\n
+In addition there is an exclusive clinical facility for hostelities from 5 pm to 7 pm. The health records of all hostelites are maintained on a regular basis to keep track of their health.\n
+\n
+Facilities Available\n\n
+Outpatient Dispensary.\n
+Minor Procedure Room.\n
+Vaccination.\n
+Ambulance service. (24*7).\n
+Ward for Day care admission.(4 beds).\n
+Isolation wards.\n
+Suturing.\n
+\n
+Instruments Available\n\n
+Glucometer.\n
+Nebulizer.\n
+BP Apparatus.(Mercury Free)\n
+Pulse Oxy meter.\n
+Suction Apparatus.\n
+Oxygen Cylinders-2 numbers.\n
+Otoscope.\n
+Tuning Fork.\n
+Surgical Equipments to carry out  minor procedures\n\n\n
+The Health center has Two Qualified Medical Officers and a nursing staff.\n
+\n
+1. Doctors.\n\n
+            One male Medical officer –Experience 13 yrs.\n
+            One lady Medical Officer—Experience 4 yrs.\n
+2. One Staff Nurse (5 yrs of Experience).\n
+3. One Helper (Trained in Hospital for 5 yrs.)\n
+\n\n\n
+Sports and Gymnasium\n\n
+With the belief 'A Healthy mind in a healthy body', RVCE forays into sports arena and provides following facilities Cricket field , Football field, Hockey field, Volley ball court, Basket ball courts (both indoor and outdoor)Badminton courts (both indoor and outdoor), Shuttle badminton, Table tennis , Indoor Fames facility and Gymnasium\n
+\n\n
+Reprographic Services\n
+\n
+Reprographic facilities are provided on Campus, located next to the Food Court. The facility caters to the documentation needs of the students and adds to their convenience.\n
+\n\n
+Internet Facilities\n\n
+RVCE has 1000 Mbps Lease Line on Fibre . The browsing centre has 100 nodes and is open 9:00 am to 12:00 midnight for access to students. RVCE is a Wi-Fi enabled campus.\n
+\n
+The Mission of the institution is to achieve self sustainability in terms of water, energy and waste management. Several steps have been taken to achieve this.\n
+1.5 lakhs and 1 lakh\n
+Rain Water Harvesting Phase – I \n
+Rain Water Harvesting Phase – II\n
+Rain Water Harvesting Phase – III\n
+Open Well and Borewell Recharge (Two bore wells for recharging ground water)\n
+Reverse osmosis water treatment plant and Softening plant (22,000 litres)\n
+Sewage Treatment Plant : (250 KLD output)\n
+Solar Energy Harvesting (500 KWP)\n\n
+Waste management\n
+e-Waste – disposed through e-Parisara\n
+\n
+Dry waste/Food waste – disposed through Samarthanam NGO\n\n
+Greenary\n
+\n
+Lush green environment with various specialties of trees, medicinal plants, lawn, etc.
+\n\n
+Closed Circuit TV’s (CCTV):
+\n\n
+CCTV’s have been installed around the campus and inside the buildings to ensure 24x7 safety and security.
+\n\n
+Seminar halls
+\n\n
+RVCE has 13 Seminar halls and 1 large Auditorium with state-of-the-art Audio-Visual facilitities to conduct, National and International Conferences, Workshops and Symposia. One of the seminar halls has advanced facilities viz. Audio DSP, iPad Docking station and video conferencing.
+\n\n
+Hostel\n
+A home away from home', is the concept of hostels in RVCE. We provide the best possible comfort needed for students. The number of students accommodated in a room depends on the semester. As the concentration and privacy required is more as a student progress from first year to final year, accordingly the accommodation is provided.
+\n\n
+There is only one common mess for all the boarders and is provided in Cauvery block with vegetarian food. The boarders are provided sports, gymnasium and Wi-Fi facilities.
+\n\n
+Hostel Names:\n
+Chamundi block: First year U.G. students.\n
+\n
+Cauvery Annex block - First year U.G. students.
+\n\n
+Cauvery block – Second and Third year U.G. students and
+\n\n
+First, Second and Third year P.G. students.
+\n\n
+Sir M. Visweswaraya block : Final year U.G. and P.G. students.
+\n
+The entire Hostel for Boys is located at R. V. College of Engineering Campus.\n
+\n
+For Information: Hostel Office - 080-67178424 / 67178148.\n
+\n
+\n
+\n
+RVCE Girls Hostel Details
+\n\n
+R. V. C. E. Girls Hostel 4th Cross, Krishna Garden, Pattanagere, Bangalore – 560011 For M.Tech/MCA and Higher Semester B.E. Students.\n
+RVCE Girls Hostel (DJ Block), RVCE Campus, RV  College of Engineering, Mysuru Road, Bengaluru-560059 For First year and Higher Semester B.E. Students.\n
+Note :\n
+\n\n
+1. Hostel rooms are of sharing type.\n
+2. Students are required to bring the following\n
+\t>Bedding.\n
+\t>Bucket / Mug and any other daily usage items.\n
+\t>Electrical items like Heating Coils / Iron Box / Tape Recorders etc., are not allowed.\n
+3. Students are required to adhere to college dress code strictly.\n
+\nDr. Padmaja K.V, Warden RVCE Girls Hostel,\n
+Professor and Associate Dean, Dept. of Electronics and Instrumentation Engineering.\n
+R.V. College of Engineering, Bengaluru-560059.\n
+\n
+Dr. K.N. Subramanya, Principal and Chief Warden, RVCE Hostels\n
+"
+            android:textColor="@color/black"
+            android:textSize="18dp"></TextView>
+    </ScrollView>
+
+</RelativeLayout>

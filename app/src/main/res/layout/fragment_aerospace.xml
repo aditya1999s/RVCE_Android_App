@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+
+    <ViewFlipper
+        android:id="@+id/viewFlip"
+        android:layout_width="fill_parent"
+        android:layout_height="190dp" />
+    <ScrollView
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:layout_below="@+id/viewFlip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/aboutrv"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Aerospace\n\n
+This Department was started in the year 2015 to offer UG program in Aerospace Engineering with an approved intake of 60. Imparting quality education in Aerospace Engineering with emphasis on research, sustainability technologies and entrepreneurship for societal symbiosis has been the primary motive behind starting this new program. The Department's main objective is to create expertise in specialized areas in aerospace engineering such as aerospace structural design, Aerodynamics, propulsion systems and control systems with focus on research and innovation.\n\n
+About the Department\n\n
+The Department of Aerospace Engineering was started in the year 2015 to offer UG program in Aerospace Engineering with an approved intake of 60. Imparting quality education in Aerospace Engineering with emphasis on research, sustainability technologies and entrepreneurship for societal symbiosis has been the primary motive behind starting this new program. The Department's main objective is to create expertise in specialized areas in Aerospace engineering such as Aerospace structural design, Aerodynamics, Propulsion systems and Guidanceand and control systems with focus on research and innovation.\n
+\n
+The Department is headed by Dr. Ravindra S Kulkarni who is an alumnus of Aerospace Engineering Department, Indian Institute of Science, Bangalore. He has nearly 27 years of rich experience in teaching and research. Presently there are two highly distinguished visiting Professors and nine regular faculty members (excluding HOD) in the Department.\n\n
+VISION\n
+\n
+Imparting quality education in Aerospace Engineering with emphasis on research, sustainability technologies and entrepreneurship for societal symbiosis.\n
+\n
+MISSION\n
+\n
+Imparting knowledge in basic and applied areas of Aerospace Engineering\n
+\n
+Providing state of the art laboratories and infrastructure for academics and research in the area of Aerospace structures, Propulsion systems, Aerodynamics and control systems.\n
+\n
+Facilitating faculty development through continuous improvement program.\n
+\n
+Promoting research, education and training in aerospace structures, propulsion systems, aerodynamics and control systems.\n
+\n
+Strengthening collaboration with industries, research organisations and institutes for internships, joint research and consultancy.\n
+\n
+Imbibing social and ethical values in students, staff and faculties.\n
+\n
+PROGRAM EDUCATIONAL OBJECTIVES (PEOs)\n
+\n
+To provide opportunities for successful professional career with a sound fundamental knowledge in Mathematics, Physical Science and Aerospace Engineering\n
+\n
+Creating expertise in specialized areas in aerospace engineering such as aerospace structural design, fluid mechanics, propulsion systems and control systems with focus on research and innovation\n
+\n
+Promoting development of problem solving abilities by adopting analytical, numerical and experimental skills with awareness on societal impact\n
+\n
+Imbibing sound communication skills, team working ability, professional ethics and zeal for lifelong learning\n
+\n
+PROGRAM OUTCOMES (POs)\n
+\n
+At the end of the program in Aerospace Engineering, each graduate should be able to\n
+\n
+Demonstrate basic knowledge in mathematics, basic science, aerospace structural design, Aerodynamics, propulsion systems, control systems and related areas.\n
+\n
+Design and conduct experiments scientifically, interpret and analyze the results\n
+\n
+To identify, formulate and solve problems related to aerospace engineering\n
+\n
+Design and analyze systems and processes for desired specifications\n
+\n
+Function in multidisciplinary teams with sound communication skills\n
+\n
+Self learn to acquire and apply allied knowledge and update the same by engaging in lifelong learning and practice professional ethics\n
+\n
+Apply engineering solutions to global, economic, environment and societal context.\n
+\n
+PROGRAM STRUCTURE\n
+\n
+The Aerospace programme offers a strong basic UG programme comprising of 8 semesters inclusive of one minor and one full semester major project. It also offers internships in industry / institute to the students. The curriculum consists of four core subjects viz. Aerodynamics, Propulsion, Structures and Control systems. Also faculty assist the students in publishing papers in their area of interest. The following charts represents the blend of subjects of different skill areas in the 2016 autonomous scheme.\n
+Student Achievements\n
+INTERNATIONAL JOURNALS\n
+\n
+Siddharth Ghosh, Swathi Reddy S R, Benjamin Rohit and Manushree Chaturvedi, “Model order reduction of bolting and feasibility evaluation”, International Journal of Mechanical and Production Engineering Research and Development, ISSN 2249 -8001, 2017\n
+B. Venkatesh, Gowtham Reddy G, Benjamin Rohit and Syed Sharin, “Tangential Stress Factor Computation in Point Mounted Structural Glass”, International Journal of Civil Engineering and Technology, ISSN  0976 – 6316, 2017\n
+INTERNATIONAL CONFERENCES\n
+\n
+Shreya Choudhary, Kai Maitreya Hegde, Pradyumna R Koushik, Sudeep Mudhulu, “Analysis of Pure Microgravity and Low Earth Orbit Environment Effects On Microbes Residing In Human Gut, B4. 25th IAA SYMPOSIUM ON SMALL SATELLITE MISSIONS, IAC-18, B4,6B,12, x48163\n
+Tanveer Ahmed, Shreesha Madhu, Karthik Mallabadi, Iterative design and experimental simulation analysis of Louver for Nanosatellites, 69th International Astronautical Congress, At Bremen, Germany, IAC-18, B4,6B,12, x48163\n
+Faculty Achievement\n
+INTERNATIONAL JOURNAL\n
+\n
+Benjamin Rohit, S.A. Adeel, Raghunandan, Harish Kumar N.S., R. Shanmugham, 'Dynamic stability Analysis of a Bisplinghoff, Ashley and Halfman Wing', International Journal of Scientific Research in Physics and Applied Sciences, 2017, ISSN 2348-3423\n
+\n
+        Basu, S and Singh, R.K. and Anwar, A.S. and Rohit, Benjamin, 'Influence of wingtip devices in reducing induced drag - A review', International Journal of Mechanical and Production Engineering Research and Development, 2017, ISSN 2249-8001\n
+\nAerospace-Faculty\n
+\n
+NAME\n
+
+DESIGNATION\n
+
+SPECIALIZATION
+\n
+E-MAIL ID
+\n\n
+Dr. Ravindra S Kulkarni
+\n
+Professor
+and
+Head\n
+
+Fluid Dynamics, Heat Transfer, Experimental Aerodynamics, Composite Material Technology
+\n
+ravindraskulkarni@rvce.edu.in\n
+\n
+R Supreeth
+\n
+Assistant Professor
+\n
+Aerodynamics, Aerospace Propulsion
+\n
+supreethr@rvce.edu.in
+\n\n
+Bhaskar K\n	Assistant Professor	Computational Fluid Dynamics, Aerodynamics, Gas Dynamics, Fluid Mechanics, Heat Transfer, Experimental Aerodynamics	\nbhaskark@rvce.edu.in
+\n\nPranesh Kumar S R	Ass\nistant Professor	\nAircraft Propulsion, Gas Dynamics\n
+praneshkumarsr@rvce.edu.in\n
+\n
+Benjamin Rohit	\nAssistant Professor	\nStructural Mechanics
+\nbenjaminr@rvce.edu.in\n
+\n
+Promio Charles F
+\n
+Assistant Professor	\nAerostructure Analysis, Aeroelasticity\n	promiocharles@rvce.edu.in\n
+\nSrinivasan S
+\n
+Assistant Professor	Computational Fluid Dynamics, Aerodynamics, Gas Dynamics, Fluid Mechanics, Heat Transfer, Experimental Aerodynamics	\nsrinivasans@rvce.edu.in\n
+\nMukesh M	\nAssistant Professor	\nGas Dynamics	\nmukeshm@rvce.edu.in\n
+\nDr. Ramachandra K\n
+
+Visiting Faculty	\nAir Craft Gas Turbine	r\namachandrak@rvce.du.in\n
+\nPrasad C S
+\n
+Visting Faculty	Aircraft Stability and Control, Turbomachinery	\nprasadcs@rvce.edu.in\n
+Group Captain (Retd)\n\n Prof.Deepak Bana	\nVisting Faculty	\nAvionics, Aircraft Instrumentation	\ndeepakbana@rvce.edu.in\n
+\n\n
+Infrastructure/Facilties\n
+Presently, the Department of Aerospace Engineering has 3 classrooms and 2 Tutorial rooms. All class rooms are equipped with ICT facility. Seven laboratories are available in the department and five laboratories are underway. Each laboratory is equipped with state of the art facility and testing instruments\n
+\n
+1. Structural Mechanics laboratory covers a range of highly precise and reliable techniques that measure and determine material characteristics and mechanical properties. Department of Aerospace engineering provides a dedicated, state-of-the-art materials testing laboratory at the Structural Mechanics lab. Destructive testing methods are used in this lab to determine the characteristics and properties of materials. This material testing lab is fully equipped to test and analyze Metals, Alloys and composites for a wide-range of applications. Material testing or destructive testing is often required to ensure that products and their component parts can perform for their intended use and endure for their expected life.\n\n
+2. Fluid Mechanics is one of the fundamental courses of Aerospace Engineering, which dedicatedly deals with the understanding of fluid behavior under real flow conditions. Besides, Fluid Mechanics also forms the basic pre-requisite for Aerodynamics, Gas Dynamics, Aerospace Propulsion etc. which forms the core part of Aerospace Engineering Program. This lab provides a platform for obtaining measurements of various flow properties such as density, specific gravity, pressure, velocity etc. Also, the basic governing laws of Fluid Mechanics are verified with suitable experimental set-ups like the orifice meters, Venturimeter, flow through pipes and Buoyancy measurements. Finally, students get an exposure to assess the performance of air blowers, compressors and hydraulic turbines.\n\n
+3. Thermodynamics is one of the fundamental courses in Aerospace Engineering, which deals with understanding the energy conversion and also covers the basic principles which are required for Gas Dynamics and Aerospace Propulsion. This lab provides a platform for measuring various parameters of heat and energy. To present a wealth of real-world engineering examples to give students a feel for how thermodynamics is applied in engineering practice. To develop an intuitive understanding of thermodynamics by emphasizing the physics and physical arguments. Finally, students get an expose to measure the calorific value of the propellant, heat flow in various component, determining the efficiency of the engine.\n\n
+4. Aerodynamics is a direct off-shoot of Fluid Dynamics, which deals with the effect of fluids under motion and their aerodynamic effect on the bodies in the path of its motion. Primary agenda of studying Aerodynamics involves the investigation and evaluation of the effect of aerodynamics forces due to the relative motion between the air and the body under consideration. Wind Tunnels being an integral and inseparable entity of Aerodynamics is one of the common facility used to visualize and evaluate the Aerodynamics forces acting on a body of interest. Here, at RVCE, the Aerodynamics laboratory is equipped with a Low Speed Subsonic Wind Tunnel, exhibiting a maximum free stream velocity of 30m/s. The tunnel is used to determine the Aerodynamics forces on models viz. Airfoils, Cylinder, Sphere, Aircraft models etc. Besides, the tunnel is also equipped with a Smoke Wire Technique for aiding flow visualization studies on various models of interest. Further, the availability of six component force balance enables the three dimensional forces on an aerodynamic body at different flow conditions. Lift measurement, Drag measurement, Boundary Layer measurements, Wake measurements are some of the measurement studies presently performed in the wind tunnel. Finally, the Department of Aerospace Engineering is currently in the process of establishing the state-of-the-art Subsonic Wind Tunnel with a maximum wind velocity of 80m/s and will be made available by July 2018.\n\n
+5. This laboratory deals with simulation and Estimation of the aircraft performance for various flight maneuvering conditions and atmospheric condition. The aircraft performance analysis is carried out with the MATLAB code, developed based on flight mechanics analytical expressions and also MATLAB-Simulink based simulation. The characteristic graphs are plotted and interpretation are carried out such that the airplane would meet out suitable mission requirements. This lab will provide a hands on experience for the students to work on various design features of aircraft for achieving and enhancing specific flight mission requirements.\n\n
+6. Aerospace structures laboratory is home to some of the finest material testing and applied mechanics equipment. At the Aerospace structures lab, the learning experience of undergraduate students is enhanced by encouraging them to undertake projects and research activity. In addition, the Aerospace structures lab has facility to conduct fatigue tests using the state-of -the-art fatigue testing machine.\n\n
+Placement\n\n
+S.N\n
+NAME\n
+
+COMPANY PLACED
+\n
+SALARY
+\n
+in Rs
+\n
+JOB TYPE
+\n\n
+1\n
+
+Nishanth S
+\n
+Exxon Mobil
+\n
+937000
+\n
+Core
+\n\n
+2\n
+
+Sanjith V Prabhu
+\n
+Futures First
+\n
+1240000
+\n
+Non-Core (Trading Profile)
+\n\n
+3\n
+
+Pavan Srinath
+\n
+KPMG
+\n
+510000
+\n
+Non-Core (ITA)
+\n\n
+4\n
+\n
+Poojita Srinivasan
+\n
+Kuliza
+\n
+825000
+\n
+Non-Core (Project Management)\n"></TextView>
+    </ScrollView>
+
+</RelativeLayout>

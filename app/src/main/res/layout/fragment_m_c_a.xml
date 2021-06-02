@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+
+    <ViewFlipper
+        android:id="@+id/viewFlip"
+        android:layout_width="fill_parent"
+        android:layout_height="190dp" />
+    <ScrollView
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:layout_below="@+id/viewFlip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/aboutrv"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="The Department of Master of Computer Applications was established in year 1997 and is the first PG programme started in RVCE. Currently, we offer one PG programme MCA and Research programmes viz M.Sc by Research and Ph.D. Degree in various specializations of Computer Applications, Affiliated to Visvesvaraya Technological University, Belagavi. The MCA programme received academic autonomy in the year 2016. The MCA programme is accredited thrice by National Board of Accreditation, New Delhi. The Department is equipped with state-of-the-art infrastructure and computing equipment supported by high speed Ethernet and wireless networks. Students are encouraged to take up interdisciplinary research and internship in various domains and the overall excellence of development of the students are reflected in exemplary placement record of the department.\n
+\n
+The faculty is diverse, committed, highly qualified with Doctorates in various specializations. Quality education, blended with rich research experience along with hands on teaching is provided to students. Till date, faculty have successfully executed projects, consultancy, and training worth 1.26 Crores.\n
+\n
+Current Intake for MCA Programme is 120. The duration of the course, from 2020 admission, is two years (Four Semesters) and curriculum is aimed at interspersing wide spectrum of practice and knowledge in the computing domain in the latest and emerging technologies with inputs and active support from industry experts and strong Alumni.\n
+\n
+The students have been placed in incredibly good placement and internship in reputed IT Companies.  Current ongoing placement statistics of the outgoing batch 2020-21\n
+\n
+Total Number of Offers	75 No’s\n
+Highest Package	24 LPA#   \n
+International Placements   	03*\n
+The students have been placed in incredibly good placement and internship in reputed IT Companies.  Current ongoing placement statistics of the batch 2019-20\n
+\n
+Total Number of Offers	147 No’s\n
+Highest Package	24 LPA   \n
+Average Package	6.5 LPA\n
+Lowest Package	4.25LPA\n
+International Placements   	05 No’s\n
+\n
+About Master of Computer Applications\n
+Department of Master of Computer Applications\n\n
+> Started in the year 1997\n
+
+> Affiliated to Visvesvaraya Technological University, Belagavi
+\n
+> Received academic autonomy in year 2016
+\n
+> Approved by All India Council for Technical Education (AICTE), New Delhi
+\n
+> Accredited by National Board of Accreditation (NBA) for third time till June 2019 and Currently uploaded SAR for the fourth visit
+\n
+> Top Rank PGCET Admissions, Intake in first year is 120 students
+\n
+> 100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity. The recruiters of MCA include JSOL, Accenture, Cisco, JPMorgan, Sapient, IBM, Infosys, CTS, Cerner, Mcafee, Endurance, National Instruments, Texas instruments,  CloudThat, Whatfix, Covance, CME group, Tally solutions, Dvara, Smartly built,  Thoughtworks and many other IT companies
+\n
+> The Department has academic initiatives with, Cognizant Technology Solutions for Free and Open Source Software and Campus Connect Program by Infosys Technologies
+\n
+> 17 Ph.D. holders among faculty members and efficient faculty retention and Published 100 plus publications in international journals/ conferences in the last 5 years.
+\n
+> Completed Research and consultancy projects sanctioned by NRB, DRDO, CSI and other sources around 1 Crore and has ongoing research projects for Rs. 25 lakhs
+\n
+> Pioneered Open Source Software usage in and around RVCE campus and development of applications
+\n\n
+Academic programmes offered
+\n\n
+> PG Programme
+\n\n
+\t> Master of Computer Applications (MCA) with approved intake of 120 students
+\n
+\t> Duration : Two years extended over 4 Semesters
+\n
+\t> Eligibility for Admission
+\n\n
+\t> Candidate should have\n\n
+\t\t                             > Passed BCA/ Bachelor Degree in Computer Science Engineering or equivalent Degree.
+\n
+\t                              OR
+\n
+  \t\t                          > Passed B.Sc./ B.Com./ B.A. with Mathematics at 10+2 Level or at Graduation Level
+\n
+\t> Obtained at least 50% marks (45% marks in case of candidates belonging to reserved category) in the qualifying Examination
+\n
+\t> Any other norms as per VTU
+
+
+\n\n
+Admission Procedure
+\n
+> Students have to write Eligibility test PGCET (Government Quota for Karnataka Students) / KMAT (Management Quota for all students) conducted by KEA / KPPGCA respectively every year and notified separately by each organization
+\n\n
+URL’s
+\n
+PGCET: www.kea.kar.nic.in
+\n
+KMAT: www.kmatindia.com
+\n\n
+Research Programme
+\n
+> Ph.D (Computer Applications) / M.Sc (Engg): Approved Research Center under Visvesvaraya Technological University, Belagavi
+\n
+> Started in 2011
+\n\n
+VISION
+\n\n
+Pioneering in ICT Enabled Quality Education and Research with a Focus on Sustainable and Inclusive Applications
+\n\n
+MISSION
+\n\n
+> To adapt novel methodologies for quality education through experiential learning
+\n
+> To empower students with continuous, holistic education, emphasizing on discipline, ethics and social commitment
+\n
+> To become a vibrant knowledge center for research and software development
+\n
+> To continuously build capacity steering towards industry- institute collaborative research and entrepreneurial competencies
+\n
+> To utilize and develop free and open source software tools for sustainable and inclusive growth
+\n\n
+Program Educational Objectives (PEO)
+\n\nThe MCA graduates will be able to
+\n\n
+PEO 1 : Practice software engineering principles and standards to develop software to meet customer requirements across verticals
+\n
+PEO 2:  Contribute to build sustainable and inclusive applications using mathematical, simulation and meta-heuristic models
+\n
+PEO 3:  Demonstrate entrepreneurial qualities through individual competence and team work
+\n
+PEO 4:  Achieve successful professional career with integrity and societal commitments leading to lifelong learning
+\n\n
+Program Outcomes (PO)
+\n\n
+On completion of the MCA Programme, MCA graduate acquire competencies to:
+\n\n
+PO1: Computational Knowledge: Acquire in-depth computational knowledge and mathematics with an ability to abstract and conceptualise models from defined problems and requirements
+\n
+PO2: Problem Analysis: Identify, formulate, conduct literature survey and solve complex computing problems through analysis as well as provide optimal solutions
+\n
+PO3: Design / Development of Solutions: Design and evaluate solutions for complex problems, components or processes that meet specified needs after considering public health and safety, cultural, societal, and environmental factors
+\n
+PO4: Conduct investigations of complex Computing problems: Conduct literature survey to analyse and extract information relevant to unfamiliar problems and synthesise information to provide valid conclusions and interpret data by applying appropriate research methods, tools and design experiments
+\n
+PO5: Modern Tool Usage: Create, select, adapt and apply appropriate techniques, resources and modern IT tools to complex computing system activities, with an understanding of the limitations
+\n
+PO6: Professional Ethics: Understand and commit to professional ethics and cyber regulations, responsibilities, and norms of professional computing practices
+\n
+PO7: Life-long Learning: Engage in lifelong learning independently for continual development to improve knowledge and competence as a computing professional
+\n
+PO8: Project management and finance: Demonstrate knowledge and understanding of management principles and apply these to multidisciplinary software development as a team member and manage projects efficiently as a leader considering economical and financial factors
+\n
+PO9: Communication Efficacy: Understand and communicate effectively with the computing community and with society at large, regarding complex computing systems activities confidently and effectively by writing effective reports and design documentations by adhering to appropriate standards, make effective presentations and give / receive clear instructions
+\n
+PO10: Societal and Environmental Concern: Understand responsibilities and consequences based on societal, environmental, health, safety, legal and cultural issues within local and global contexts relevant to professional computing practices
+\n
+PO11: Individual and Team Work: Function effectively as an individual, as a member or leader in diverse teams in multidisciplinary environments
+\n
+PO12: Innovation and Entrepreneurship: Identify a timely opportunity for entrepreneurship and use innovation to pursue and create value addition for the betterment of the individual and society at large
+\n\n
+Program Specific Criteria (PSC)
+\n\n
+The MCA programme will enable the students, by the time they graduate to\n\n
+
+PSC1: Explain the principles of mathematics, computing and business foundations\n
+
+PSC2: Demonstrate the use of software tools and technologies relevant to various verticals\n
+
+PSC3: Design and develop software products, processes and systems for real world situations\n
+\n
+Outline of the Program Structure\n
+\n
+The MCA programme is a professional PG programme comprising of 6 semesters (still upto 2020 admission)  inclusive of one full semester project internship in industry / institute. The curriculum consists of computer science core subjects like Data structures, Operating systems, Computer Networks, Unix System Programming and Databases, Mathematics and Management. Students can choose their area of interest as electives including Data mining, Operation Research, Pattern Recognition, Cloud Computing, Mobile applications and so on. The following charts represents the blend of subjects of different skill areas in the 2016 autonomous scheme and 2013-16 VTU curriculum.\n
+\n\n
+Student Achievements - 2020
+\n\n
+> Akhil S, Santhra K Roy, participated as a resource person in 5 days virtual hands-on workshop on augmented reality organized by IEEE student Branch national college Jayanagar from 26th to 30th November 2020.
+\n\n
+> K Rahul Kumar-1RV19MCA38 of 3rd semester MCA completed Pandas Python Library for Beginners in Data Science through Course Era.
+\n\n
+> Deepak Kumar SIngh ( Passed out Batch) Jojode Yashwanth, Dhanush Digitizetion of 5th  Semester MCA completed a project on Digitization of  ECG Signel Recovery for Healfh Analysis during the period of August 2019 to July 2020 for Imderix Systems, Bangalore .
+\n\n
+> APOORVA.B.S,II SEM successfully participating in National Level Quiz Competition On Web Programming Organized by Department of Computer Science, S.J.R College for Women on 15th July 2020
+\n\n> Certificate Participation to Apoorva.B.S, II Semester MCA for attending webinar on Web Application Security on 12th June 2020,conducted by Department of CSE and IT, Lo Institute of Technology, Chennai, in association with CSI Student Chapter and National Cyber Safety and Security Standards.
+\n\n> Certificate of Partificipation to Ashish Bharadway II semester MCA in Webinar on 'web applicaiton security' on 12th June 2020.
+\n\n> E- Certificate Appreciation to Apoorva.B.S, II Semester MCA for Performance in World Environment Day Online Quiz organized by Dept. of Computer Scienceand Department of Pure Science on 5th June 2020.
+\n\n> Certificate Appreciation to Apoorva.B.S, II Semester MCA for successful completion of Covid-19Awareness Quiz during 19-24 April 2020,conducted by Department of MCA, Ramaiah Institute of Technology, Bangalore.
+ \n\n
+Around 50 students completed online certification courses and 130 students attended and completed webinars/ seminars in various domains.\n
+\n
+Student Publications - 2020\n
+\n
+> Thikshaya M, Vishal C, published paper in International Journal of Innovative Technology and Exploring Engineering (IJITEE)  ISSN: 2278-3075, Volume-9 Issue-9, July2020 (Scopus Index) \n\n
+> Total of 111 papers were published by the VI semester students as a part of their VI semester project in various reputed international journals 5 papers were published in Scopus indexed journal and around 46 papers were published in UGC approved Tier II journals\n
+\n
+Faculty Achievements - 2020\n
+\n
+> Mrs. Sudha M, External research Scholar, successfully completed her final Doctoral thesis titled “Development of efficient fault tolerant methods and practices for cloud computing environment” in Defence Viva-Voce Examination  under the guidance of Dr.Usha J, Professor, Department of MCA, RVCE on 30th  September 2020\n\n
+> Mrs. Deepika K successfully completed her final Doctoral thesis titled “Improvement of  Human Tracking  using Sensor Based System” in Defence Viva-Voce Examination  under the guidance of Dr.Usha J, Professor, Department of MCA, RVCE on 24th  September 2020\n\n
+> Dr. Jasmine K S, NPTEL Translator for the Course Information Security-5-Secure System Engineering (106106199) under the discipline Computer Science and Engineering, April 2020.\n
+\n
+> Dr. Jasmine K S, Mentor for  52 students of MCA for NPTEL (National Programme on Technology Enhanced Learning) certification programme on the topic Software Testing conducted by By Prof. Rajib Mall ,Department of Computer Science and Engineering, IIT Kharagpur. Course duration was January– March 2020, Full Term – 4Weeks Course.
+\n\n
+>Dr. Ashwini K.B.Mentor for  41 students of MCA for NPTEL (National Programme on Technology Enhanced Learning) certification programme on the topic Software Testing conducted by By Prof. Rajib Mall ,Department of Computer Science and Engineering, IIT Kharagpur. Course duration was January– March 2020, Full Term – 4Weeks Course.
+\n\n
+> Jayasimha S R successfully completed his final Doctoral Viva-Voce Examination, thesis titled “Development of Energy Efficient Algorithms in Cloud Environment” under the guidance of Guide: Dr. Usha J, Professor, Department of MCA, Co-guide: Dr. Srivani S G, Assoc Prof, Department of EEE,  RVCE on 10th august 2020.
+\n\n
+> Dr. Jasmine K S Received the award titled ‘ Most Innovative Professor’  Organized by Golden Aim Awards for excellence and leadership in Education, Mumbai
+\n\n
+> Dr. Jasmine KS was honored by Rashtreeya Sikshana Samithi Trust (RSST) on 26​th January 2020, for receiving the  honour titled “100 Most dedicated professors -2019”, organized by World Education Congress, Mumbai on 4​th July  2019\n
+\n
+MCA Faculty Details\n\n
+
+Name\n
+Designation	\nArea of Specialization	\nEmail Address\n\n
+  Dr. Andhe Dharani\n	 Professor.and.Director	 \nImage Processing,\n
+ DataBase, Management Systems	 \nandhedharani@rvce.edu.in\n\n
+  Dr. Usha J	 \nProfessor	 \nMobile Computing, Networking	 \n ushaj@rvce.edu.in\n
+  \n Dr. K.S. Jasmine	\n Associate Professor	\n Software Reuse	\n jasmineks@rvce.edu.in\n\n
+  Dr. Vijayalakshmi M.N\n	 Associate Professor\n	 Data Mining and Image Processing\n	 vijayalakshmi@rvce.edu.in\n\n
+  Dr. B. Renuka Prasad	\n Associate Professor   and Associate Dean	\n Computer Network Security	\n renukaprasadb@rvce.edu.in\n\n
+  Dr. B.H. Chandrashekar	\n Associate Professor	\n Information Retrieval	 \n chandrashekarbh@rvce.edu.in\n\n
+  Dr. S. Anupama Kumar	\n Associate Professor \n Data Mining	\n anupamakumar@rvce.edu.in\n\n
+  Dr. Ashwini K.B	\n Associate Professor	\n Wireless Sensor Networks	\n ashwinikb@rvce.edu.in\n\n
+  Dr. Mohan Aradhya	\n Assistant Professor	\n Wireless Sensor Networks	\n mohanaradhya@rvce.edu.in\n\n
+  Dr. Divya T.L	\n Assistant Professor	\n Data Mining	\n divyatl@rvce.edu.in\n\n
+  Saravanan C	\n Assistant Professor	\n Big Data Analytics	\n saravananc@rvce.edu.in \n\n
+ Dr. Vishal C	\n Assistant Professor	\n Internet of Things (IoT) and Machine Learning	\n vishalc@rvce.edu.in\n\n
+  Chandrani  Chakravorty	\n Assistant Professor	\n Mobile Computing	\n chandrani@rvce.edu.in\n\n
+  Savita Sheelavant	\n Assistant Professor	\n Image Processing	\n savitas.sheelavant@rvce.edu.in\n\n
+  Dr. Jayasimha S R	\n Assistant Professor	\n Cloud Computing	\n jayasimhasr@rvce.edu.in\n\n
+  Narasimha Swamy S	\n Assistant Professor	\n Networking, Image Processing	\n narasimhaswamys@rvce.edu.in \n\n
+ Dr. Deepika K	\n Assistant Professor	\n Internet of Things (IoT) and Wireless Sensor Networks (WSN)	\n deepikak@rvce.edu.in\n\n
+  Prashanth K	\n Assistant Professor	\n Internet of Things	\n prashanthk@rvce.edu.in\n\n
+  Dr. Preethi N. Patil	\n Assistant Professor	\n Pattern Recognition,  Image processing\n	 preethinpatil@rvce.edu.in\n\n
+ Dr..S.S.Nagamuthu.Krishnan	\n Assistant Professor	\n Network Security	\n ssnk@rvce.edu.in\n\n
+  Shaila H. Koppad	\n Assistant Professor	\n Big Data Analytics	\n shailahk@rvce.edu.in \n\n
+  Dr. Manjunath M	\n Assistant Professor	\n Mobile Adhoc Network,
+ Advanced Computer Network	\n manjunathm@rvce.edu.in\n\n
+  Dr. R. Savitha	\n Assistant Professor	\n Image Processing	\n savithar@rvce.edu.in\n\n
+\n
+Infrastructure / Facilities\n
+Department of MCA has Six well equipped ICT Enabled classrooms among which One is Multimedia classroom, Two tutorial halls and Two Seminar halls, Eight Well equipped Computer Laboratories with Wi-Fi connectivity among which One is dedicated to Research and Consultancy Lab and One to Skill and Personality Development Lab for SC/ST students.\n\n
+Department Library\n
+\n
+Apart from the centralized library facility in the college, the department library is well stocked with books, magazines and journals. It has more than 1861 book titles for the benefit of the students. The department also has a CD Library with more than 50 CD Titles containing soft copy of the subjects in the course. It also contains hard copies of subject notes, previous year university question papers and subject wise question banks for student references along with sufficient reading space for the students.\n\n
+Department Laboratories\n
+\n
+The campus is wifi enabled.\n
+The MCA department has Eight well-equipped network computer labs with 196 computer systems, 80 thin clients, 4 high end Servers and 25+ peripherals.\n
+Internet Lab has been setup in the department, apart from the common browsing center facility available in the College, in order to enable the students to do quality projects.\n
+A Research and Consultancy lab has also been established with high-end computer systems and peripherals with internet facility for executing research projects funded by various agencies like, Naval Research Board, Armament Research Board, DRDO New Delhi, AICTE\n\n
+Major Equipment and Software Tools available in various Laboratories\n
+\n
+Resiliente Hypervisor server - Intel Xeon E5 2400 process, - 2 x 2450 Xeon process (8Core / 16 Threads 2.1 Ghz / 20 MB Cache / 32 mm / 95 W) 16 physical Core), - 8 x 16 GB Total ECC RDIMM ( (Total 128GB), - 8 x 2 TB x 3.5 HDD -01Nos.\n\n
+        Resiliente Hypervisor server - Intel Xeon E5 2400 process, - 2 x 2450 Xeon process(8Core / 16 Threads 2.1 Ghz / 20 MB Cache / 32 mm / 95 W) (16 physical Core), - 32 GB Total ECC RDIMM - 1x 500 GB 7.2 K x 3.5 HDD, 4 x 2 TB 3.5 HDD - 01Nos.\n\n
+        Blade Server - Proliant BL460c/(2) Quad-Core Intel Xeon Processor E5345 (2.33 GHz, 80 Watts, 1333  FSB)/2, 10 GB RAM FBD DDR2-667/(2), 1TB HDD.  – 01 Nos.\n\n
+        IBM  X Series Window Server - Intel XEON 3 Ghz Processor 512 MB RAM, expandable up to 4 GB 1MB level 2 cache, 73 GB SCSI HDD, 48x CD-ROM drive – 01 Nos.\n\n
+        WorkStation - HP Workstation: HPZ400 FX625AV – 01 Nos.\n\n
+        Laptop - HP Compaq nx6325 with AMD turion 62/2   - 01 Nos, Toshiba Satellite Pro B4—A – 1 Nos.\n\n
+        Acer Veriton M200 – H310 Micro Tower, Business Desktop - Intel Core i7 –8700 Pro CPU @3.20Ghz(12CPU), 8GB DDR4-2666Mhz RAM, 1TB SATA Hard Disk 2 GB Integrated UHD Graphics Card 630,10/100/100 Ethernet controller, 300W SMPS 19.5” LED backlit Monitor, USB Keyboard, USB Optical Monitor, Windows 10 Home Edition 64Bit – 24 N0s\n\n
+        HP 280 G3 Micro Tower Pc Intel core 7th Gen i7-7700 Processor,8 GB DDR4-2400 Memory,1TB SATA7.2KRPM Hard Disk, Integrated Intel HD graphics and Nvidia K620 Graphics with 2 GB Dedicated Memory, Integrated Audio and Gigabit Ethernet, HP 18.5LED Backlit Monitor, Hp Key Board and Optical Mouse - 20 Nos\n\n
+        HP 280 G3 Micro Tower Business Pc Intel core 7th Gen i5-7500 Processor,8 GB DDR4-2400 Memory,1TB 7.2KRPM Hard Disk, Integrated Intel HD graphics, Integrated Audio and Gigabit Ethernet, Hp Keyboard and Optical Mouse,15” HP CRT Monitor - 50 Nos\n\n
+        Acer –i5 - Desk Top Computer  : ACER Veriton M200-h57 MT / 1 *Ci5-661 (3.33 Ghz / 4MB Cashe / 32NM) /  1 * 500GB SATA HDD 7200 rpm / 4 GB DDR3 1066 Mhz RAM (2 x 2 GB) – 30 Nos.\n\n
+        Acer –i3 – Desk Top Computer - ACER Veriton M200- H57 - Core i3, E550 @3.2Ghz, 4GB DDR RAM, 320 GTB SATA HARDDSIK,H57 Chipset – 23 Nos.\n\n
+        Intel core 2 Duo: Lenovo - Desk Top Computer  - Intel core 2 Duo E7300 Processor @ 2.66 GHz, 3 MB L2 cache, 1333 MHz FSB, Intel Q35  Express Chipset, 2GB RAM, 160Gb SATA Hard Disk, Keyboard, Optical Mouse, DVD Writer,  Ethernet Card 15” HP Monitor.v – 24 Nos.\n\n
+        HP Pro 3335 Series Microtower Business PC- AMD Phenom II X4 B97 Processor.(3.2 Ghz, 2 MB L2 cache, Quard Core, 8MB Total cache, HT bus3.0); 4GB PC3-10600 DDR3 Memory;500GB,7200 rpm, SATA Hard Disk Drive; ATI Radeon HD 4200 Integrated Graphics; integrated Gigabit Ethernet Controller; Integrated Audio; HP Keyboard; HP Optical Scroll Mouse, HP 18.5” Wide LED Display – 30 Nos.\n\n
+        HP COMPAQ Dx7480 - Desktop Computer : Intel core Duo E7500 Processor (2.96 GHz, 3-MB L2 cache, 1066-Mhz FSB), Intel Q35Express Chipset, 2-GB DDR2, 250GB HDD Serial ATA 3.0 GB) DVD/RW, Graphics Media Accelerator. – 05 Nos.\n\n
+        Dell OptiPlex 7050 MT Desktop- Intel core i7-7700 / TPM Enabled (QC/ 8MB/8T/3.6Ghz/65W) / E star 6.1 and TCO TCO 5.0 Driver / DVD+ / -RW Beze / 32GB (4x8GB) 2400MHz DDR4 RAM , 1 TB 7.2K RPM SATA 6Gbps Entry 3.5in Cabled Hard Drive / Monitor Power Cord (EURO-INDIA), 6A/ Regularity Label for Optiex 7050 MT, ICC (EPA) / Intel (R) Core(TM) I7 Label, Dell 19 Monitor { E1916HV Monitor / AMD Radeon R5 430, 2 GB Graphics Card ( DP/SL-DVI-1) VGA Video Port WiFi-Intel Dual Band Wireless AC 8265(802.11ac)/Dell Multimedia Keyboard KB216 Black(US International-QWERTY) Service DESKTOP SL NO:0779TPFCC00-784-A6CB - 1N\n
+
+        \nDell OptiPlex 3050 All in One Desktop { 3050 19.5, HD Plus Non Touch With Camera, Integrated Graphics, 35W, External Power / Intel Core i3 6100T ( DC/3MB/4T/3.2GHz/35W)/E-Star 6.1 and TCO 5.0 Driver Services Install Module/Regulator Label With GS Mark For 3050AIO Non Touch Con g ICC,130/TPM Enabled/4GB(1x4GB) 2400MHz DDR4/2.5 inch 1TB 7200rpm Hard Disk Drive/8x DVD+/-RW 9.5mm Optical Dis Drive/Power cord for 3-pin Adapter(IND)/130W AC Adapter/Intel(R) Core(TM) I3 Label/Intel Integrated Graphics/Dell Optical Mouse MS116 Black/Dell Multimedia Keyboard KB216 Black (US International-QWERTY)/Ubuntu Linux 16.04/5 Year Next Business Day Onsite Service Sl No:7B24HL2,Dell USB Keyboard and Mouse - 05 Nos\n\n
+
+        LENOVO Desktop M720, WB36/17/8700/32GB DDR4 (2400Mhz/4DIMM Slots / 1TB / No ODD/ WINIO PRO / 3 Video Points / (VGA+2DP) / 64 GB Explandable Serial Port / 4 USB3.1 ports and 4 USB 2.0 / 19.5 Monitor, 2GB NVIDA GEDFORCE Graphics card - 05 Nos.\n\n
+
+        LENOVO All in One Desktop V3302, H110 / 19.5 HD+1 / 13-8100, 3.9G Full powered proc / 4GB DDR4 2400 / 1TB HDD 7200 RPM / WiFi + BT / WIN 10 Pro / Wired Keyboard and Mouse - 02 Nos\n\n
+
+        Online UPS: Techser-UPS,  10 KVA Online UPS With 66AH - 07 Nos.\n\n
+
+        Printer and Scanner : HP Laser Jet Network Printer, HP Multifunctional Printer, HP 1600 Color Laser Jet Printer, HP Laser Printers, Sumsung Printer, HP 4070 Scanner.\n\n
+        LCD Projector : Kyan Media Center – 1 Nos, Optima EP706S DLP Projector, View Sonic DLP – 07 Nos. Benqu Projector Mounted – 01 Nos, sharp c20X LCD Projector Mounted – 01 Nos.\n\n
+        DVD Duplicator(1:7)\n\n
+        Network Switch : D-Link 24 Port Switch – 19 Nos, Wireless Access Point – 12 Nos, 8 Port Switch – 01 Nos, 16 Port Switch – 02 Nos.\n\n
+        Softwares Available\n\n
+
+        The Department has licencsed softwares like\n\n
+
+        IBM Rational Software Architect (RSA) 7.0\n\n
+
+        IBM Rational Suite Enterprise Studio\n\n
+
+        Rational Unified Process (RUP)-Requisite Pro - Requirement Management-Rational Rose Enterprise Edition – Visual Modeling-Purify – Run Time Error Checking-Quantity – Profiling-Coverage – Code Coverage-Rational Robot (with load test)-Rational Test Manager-Clear Case LT – Configuration Management-Clear Quest – Defect Tracking-Project Console-SoDA - Documentation
+\n\n
+        Microsoft Products  ( Microsoft Operating Sysems, Microsoft Office, etc)
+\n\n
+        Open Source Tools ( Debian, Ubuntu, Lubuntu, Open JDK, Java, Python, Apache2, PHP, Mysql, CMS tools  etc.)
+\n\n
+Industry Interface\n\n
+Department MoU's\n
+\n
+Peer-mentor.com\n
+\n
+R.V. College of Engineering , has signed an Memorandum of Understanding with Peer-Mentor.com on 26th October 2017 for the duration of two years till 26th October 2019 to undertake Collaborative incubation and entrepreneurial activities in areas of mutual interest. The Department of MCA facilitated and initiated activities.\n
+\n
+Deep Root Linux\n
+\n
+R.V.College of Engineering, has signed an Memorandum of Understanding with Deeproot Linux on 27th April 2010. The Department of MCA is the coordinating department. The Services would be to handle\n
+\n
+Interactive website and web portal development with payment gateway integration\n
+GNU/Linux desktop and server setups/Network setups\n
+Training on Free and Open Software Tools(multimedia, graphics design, document layout and preparation, content publishing and so on)\n
+Any other IT requirements\n
+Cognizant Technology Solutions\n
+\n
+R.V.College of Engineering, has signed an Memorandum of Understanding with Cognizant Technology Solutions(CTS) on 28th October 2010. The Department of MCA is the coordinating department.\n
+\n
+Cognizant has agreed to contribute Rs.6,00,000/-(Rupees Six Lakhs) in the form of grant initially. Further they have sponsored Rs.4,00,000/-(Rupees Four Lakhs) in 2016 for up gradation of RVCE Cognizant FOSS Lab.\n
+\n
+Industry Interactions\n
+\n
+Many industries likeTrend wise Software solutions IBM, Siemens, Infosys Technologies, Texas Instruments, Cerner and many more are providing their experties in delivering Technical talks,Invited talks, Hands-on Sessions and workshops in cutting edge technologies. They also give projects and Internships to our students. Under Campus Connect Program by Infosys Technologies, Bangalore the department of MCA conducted Foundation Program (FP-I) for Non-IT students\n
+\n
+IBM Academic Initiative/Center of Excellence at RVCE\n
+\n
+R V College of Engineering entered into IBM Academic Initiative from August 2015 onwards. The Department of MCA is the coordinating department.\n
+\n
+R V College of Engineering entered into a Memorandum of Understanding (MoU) with IBM academic Initiative, on 30th  March, 2010 and is renewed for the year 2013. Under this MoU a Center of Excellence has been setup in the MCA department. The center will conduct certification courses and training programs on IBM technologies to the faculties and students of RVCE. The other highlights are – Free IBM software facilities, Free IBM certification programs, Free IBM Red Book Library with software tools, CDs.\n\n
+RVCE - CTS Open Source Laboratory\n
+\n
+On 11th April 2011 RVCE-CTS Open Source Laboratory was inaugurated in the department of MCA by the Vice-President of CTS Mr. Kalyan Mohan, in presence of Principal, RVCE, Director MCA, RVCE and HODs of other departments. The Lab is an advanced state of art industry – university setup aimed at fostering, training and Research and Development using Open Source Software. The MoU has been renewed for the year 2013 with a support of Rs. 3, 62,500 lakhs for the year 2013-14  and Rs.4,00,000/-(Rupees Four Lakhs) in 2016 for up gradation of RVCE Cognizant FOSS Lab. at the MCA Department\n\n
+Placements\n
+The students of MCA course have got job opportunities in software companies like JSOL,Synapse, JP Morgan, Texas Instruments, HSBC, Cerner, Yahoo, Accenture, Infosys, Genpack, Covance and many more companies. The placement records of the MCA students have been exemplary.\n
+\n
+*Ongoing Placement Statistics of  2020 - 2021\n
+\n\n
+Total Number of Offers*     : 43 No’s     \n
+Highest Package*                      : 28 LPA  \n
+International Placements*  : 02\n\n
+Pre-placement Activities\n
+\n
+The department of MCA conducts a series of training for the students to prepare themselves for placements. The various trainings include\n
+\n
+English sessions are conducted during 1st and 2nd semester and evaluated at the end of the semester.\n
+\n
+Aptitude and soft skills trainings are given to the students in the 3rd and 4th semester and evaluated at the end of respective semester.\n
+\n
+Lab skill sessions are conducted for 1st and 2nd year students and evaluated at the end of every semester with online tests.\n
+\n
+Extra mural projects are given for 2nd and 3rd semester students and evaluated at the end of every semester.\n\n"></TextView>
+    </ScrollView>
+
+</RelativeLayout>

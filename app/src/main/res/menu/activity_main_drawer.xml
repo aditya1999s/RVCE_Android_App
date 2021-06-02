@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/webbbhouse"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_principal"
+            android:icon="@drawable/businessman"
+            android:title="@string/menu_principal" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/file"
+            android:title="@string/menu_about_us" />
+        <item
+            android:id="@+id/nav_key_executives"
+            android:icon="@drawable/female"
+            android:title="@string/menu_key_executives" />
+        <item
+            android:id="@+id/nav_infrastructure"
+            android:icon="@drawable/infrastructure"
+            android:title="@string/menu_infrastructure" />
+        <item
+            android:id="@+id/nav_admission"
+            android:icon="@drawable/admission"
+            android:title="@string/menu_admission" />
+        <item
+            android:id="@+id/nav_departments"
+            android:icon="@drawable/department"
+            android:title="@string/menu_departments" />
+        <item
+            android:id="@+id/nav_research_rvce"
+            android:icon="@drawable/research"
+            android:title="@string/menu_research_rvce" />
+        <item
+            android:id="@+id/nav_incubation_center"
+            android:icon="@drawable/network"
+            android:title="@string/menu_incubation_center" />
+        <item
+            android:id="@+id/nav_menu_industry_institute_interaction"
+            android:icon="@drawable/manufacture"
+            android:title="@string/menu_industry_institute_interaction" />
+        <item
+            android:id="@+id/nav_menu_placement"
+            android:icon="@drawable/opportunity"
+            android:title="@string/menu_placement" />
+        <item
+            android:id="@+id/nav_menu_achievements"
+            android:icon="@drawable/iconfinder_reward_6791287"
+            android:title="@string/menu_achievements" />
+        <item
+            android:id="@+id/nav_menu_library"
+            android:icon="@drawable/reading"
+            android:title="@string/menu_library" />
+        <item
+            android:id="@+id/nav_menu_ncc_nss"
+            android:icon="@drawable/military"
+            android:title="@string/menu_ncc_nss" />
+        <item
+            android:id="@+id/nav_menu_student_clubs"
+            android:icon="@drawable/reading"
+            android:title="@string/menu_student_clubs" />
+        <item
+            android:id="@+id/nav_menu_media_says"
+            android:icon="@drawable/mediasays"
+            android:title="@string/menu_media_says" />
+        <item
+            android:id="@+id/nav_menu_sports"
+            android:icon="@drawable/sport"
+            android:title="@string/menu_sports" />
+        <item
+            android:id="@+id/nav_menu_cultural"
+            android:icon="@drawable/pray"
+            android:title="@string/menu_cultural" />
+        <item
+            android:id="@+id/nav_menu_contact_us"
+            android:icon="@drawable/contact"
+            android:title="@string/menu_contact_us" />
+        <item
+            android:id="@+id/nav_menu_career_oppertunity"
+            android:icon="@drawable/opportunity"
+            android:title="@string/menu_career_oppertunity" />
+        <item
+            android:id="@+id/nav_menu_nba_rvce_2021"
+            android:icon="@drawable/compliant"
+            android:title="@string/menu_nba_rvce_2021" />
+        <item
+            android:id="@+id/nav_menu_nirf_rvce_2019_2020"
+            android:icon="@drawable/compliant"
+            android:title="@string/menu_nirf_rvce_2019_2020" />
+        <item
+            android:id="@+id/nav_menu_ug_pg_programs"
+            android:icon="@drawable/webpage"
+            android:title="@string/menu_ug_pg_programs" />
+        <item
+            android:id="@+id/nav_menu_ugc_projects"
+            android:icon="@drawable/manufacture"
+            android:title="@string/menu_ugc_projects" />
+        <item
+            android:id="@+id/nav_menu_center_of_excellence"
+            android:icon="@drawable/excellence"
+            android:title="@string/menu_center_of_excellence" />
+    </group>
+</menu>

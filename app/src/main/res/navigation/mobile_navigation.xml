@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.rvcephase_1.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_principal"
+        android:name="com.example.rvcephase_1.ui.principal.PrincipalFragment"
+        android:label="@string/menu_principal"
+        tools:layout="@layout/fragment_principal" />
+
+    <fragment
+        android:id="@+id/nav_about_us"
+        android:name="com.example.rvcephase_1.ui.about_us.AboutUsFragment"
+        android:label="@string/menu_about_us"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/nav_key_executives"
+        android:name="com.example.rvcephase_1.ui.key_executives.KeyExecutivesFragment"
+        android:label="@string/menu_key_executives"
+        tools:layout="@layout/fragment_key_executives" />
+
+    <fragment
+        android:id="@+id/nav_infrastructure"
+        android:name="com.example.rvcephase_1.ui.infrastructure.InfrastructureFragment"
+        android:label="@string/menu_infrastructure"
+        tools:layout="@layout/fragment_infrastructure" />
+
+    <fragment
+        android:id="@+id/nav_admission"
+        android:name="com.example.rvcephase_1.ui.admission.AdmissionFragment"
+        android:label="@string/menu_admission"
+        tools:layout="@layout/fragment_admission" />
+
+    <fragment
+        android:id="@+id/nav_departments"
+        android:name="com.example.rvcephase_1.ui.departments.DepartmentsFragment"
+        android:label="@string/menu_departments"
+        tools:layout="@layout/fragment_departments" />
+
+    <fragment
+        android:id="@+id/nav_research_rvce"
+        android:name="com.example.rvcephase_1.ui.researchrvce.ResearchRVCEFragment"
+        android:label="@string/menu_research_rvce"
+        tools:layout="@layout/fragment_research_rvce" />
+
+    <fragment
+        android:id="@+id/nav_incubation_center"
+        android:name="com.example.rvcephase_1.ui.incubation_center.IncubationCenterFragment"
+        android:label="@string/menu_incubation_center"
+        tools:layout="@layout/fragment_menu_incubation_center" />
+
+    <fragment
+        android:id="@+id/nav_menu_industry_institute_interaction"
+        android:name="com.example.rvcephase_1.ui.industryii.IndustryIIFragment"
+        android:label="@string/menu_industry_institute_interaction"
+        tools:layout="@layout/fragment_menu_industry_institute_interaction" />
+
+    <fragment
+        android:id="@+id/nav_menu_placement"
+        android:name="com.example.rvcephase_1.ui.placement.PlacementFragment"
+        android:label="@string/menu_placement"
+        tools:layout="@layout/fragment_menu_placement" />
+
+    <fragment
+        android:id="@+id/nav_menu_achievements"
+        android:name="com.example.rvcephase_1.ui.achievements.AchievementsFragment"
+        android:label="@string/menu_achievements"
+        tools:layout="@layout/fragment_menu_achievements" />
+
+    <fragment
+        android:id="@+id/nav_menu_library"
+        android:name="com.example.rvcephase_1.ui.library.LibraryFragment"
+        android:label="@string/menu_library"
+        tools:layout="@layout/fragment_menu_library" />
+
+    <fragment
+        android:id="@+id/nav_menu_ncc_nss"
+        android:name="com.example.rvcephase_1.ui.nccnss.NCCNSSFragment"
+        android:label="@string/menu_ncc_nss"
+        tools:layout="@layout/fragment_menu_ncc_nss" />
+
+    <fragment
+        android:id="@+id/nav_menu_student_clubs"
+        android:name="com.example.rvcephase_1.ui.studentclubs.StudentClub"
+        android:label="@string/menu_student_clubs"
+        tools:layout="@layout/fragment_menu_student_clubs" />
+
+    <fragment
+        android:id="@+id/nav_menu_media_says"
+        android:name="com.example.rvcephase_1.ui.mediasays.MediaSaysFragment"
+        android:label="@string/menu_media_says"
+        tools:layout="@layout/fragment_menu_media_says" />
+
+    <fragment
+        android:id="@+id/nav_menu_sports"
+        android:name="com.example.rvcephase_1.ui.sports.SportsFragment"
+        android:label="@string/menu_sports"
+        tools:layout="@layout/fragment_menu_sports" />
+
+    <fragment
+        android:id="@+id/nav_menu_cultural"
+        android:name="com.example.rvcephase_1.ui.cultural.CulturalFragment"
+        android:label="@string/menu_cultural"
+        tools:layout="@layout/fragment_menu_cultural" />
+
+    <fragment
+        android:id="@+id/nav_menu_contact_us"
+        android:name="com.example.rvcephase_1.ui.contactus.ContactUsFragment"
+        android:label="@string/menu_contact_us"
+        tools:layout="@layout/fragment_menu_contact_us" />
+
+    <fragment
+        android:id="@+id/nav_menu_career_oppertunity"
+        android:name="com.example.rvcephase_1.ui.career_opportunity.CareerOppertunityFragment"
+        android:label="@string/menu_career_oppertunity"
+        tools:layout="@layout/fragment_menu_career_oppertunity" />
+
+    <fragment
+        android:id="@+id/nav_menu_nba_rvce_2021"
+        android:name="com.example.rvcephase_1.ui.nbarvcestatus2021.NbaRvceStatus2021Fragment"
+        android:label="@string/menu_nba_rvce_2021"
+        tools:layout="@layout/fragment_menu_nba_rvce_2021" />
+
+    <fragment
+        android:id="@+id/nav_menu_nirf_rvce_2019_2020"
+        android:name="com.example.rvcephase_1.ui.nirfrvce20192020.NirfRvce20192020Fragment"
+        android:label="@string/menu_nirf_rvce_2019_2020"
+        tools:layout="@layout/fragment_menu_nirf_rvce_2019_2020" />
+
+    <fragment
+        android:id="@+id/nav_menu_ug_pg_programs"
+        android:name="com.example.rvcephase_1.ui.ug_pg_programs.UgPgProgramsFragment"
+        android:label="@string/menu_ug_pg_programs"
+        tools:layout="@layout/fragment_menu_ug_pg_programs" />
+
+    <fragment
+        android:id="@+id/nav_menu_ugc_projects"
+        android:name="com.example.rvcephase_1.ui.ugc_projects.UGCProjectsFragment"
+        android:label="@string/menu_ugc_projects"
+        tools:layout="@layout/fragment_menu_ugc_projects" />
+    <fragment
+        android:id="@+id/nav_menu_center_of_excellence"
+        android:name="com.example.rvcephase_1.ui.center_of_excellence.CenterOfExcellenceFragment"
+        android:label="@string/menu_center_of_excellence"
+        tools:layout="@layout/fragment_menu_center_of_excellence" />
+
+</navigation>

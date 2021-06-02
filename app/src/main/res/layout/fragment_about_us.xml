@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+
+
+    <ScrollView
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/aboutrv"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Management RSST:-\n\n\n
+The Rashtreeya sikshana samithi Trust (RSST) a charitable trust was founded by Sri. M.C. Shivananda Sarma, in the year 1940, when education was a privilege in the pre-independent India. The mission of the founder was to ‘Impart Quality Education to all strata of the society’. RSST manages several educational institutions from Kindergarten to Professional colleges in Bengaluru. Sri Meda Kasturi Ranga Setty, a business man and philanthropist joined hands together to pull this movement forward. Today six decades later, RSST through the RV (Rashtreeya Vidyalaya) institutions, are in the forefront among providers of quality education in the state of Karnataka. Keeping in step with its mission “Excellence in Education with Societal Commitment”, its concerns have always been to provide opportunities, especially to challenged, disabled, and economically weak. RV as a brand is well respected for its clean and efficient management.\n\n
+
+This Charitable institution has more than 350 member trustees, who every three years elect a 28 members board to oversee the activities of the trust and various institutions. The trust has an executive committee consisting of President , two vice-presidents, Honorary treasurer, Honorary secretary and joint secretary who look after the day to day affairs of the trust and its affiliated institutions. Each board member is associated with one of the 23 institutions that the trust runs.\n
+\nVISION:-\n\n
+
+> Excellence in Education with Societal Commitment\n\n
+\nMISSION:-\n\n
+
+> To encompass every strata of education…. From kinder Garten to postgraduation… From Humanities to sciences, Engineering and Technology to advanced speciality fields… Teachers training, education Technology and Health care\n\n
+
+> Molding the future of students in its fold, through setting uncompromising standards.\n\n
+
+> To provide educational ambience and state of the art infrastructure\n\n
+
+> Provide learning opportunity to students of all strata of society including handicapped and make them good human beings\n\n\n
+
+Rashtreeya Sikshana Samithi Trust\n\n\n\n
+
+R.V.Teachers College Building, 2nd Block, Jayanagar,\n
+Bangalore- 560011,\n
+Karnataka, India.\n
+Ph: + 91- 80-2656 2386, 2656 177\n
+Fax: +91-80-2656 8290\n
+E-mail : rsst.rv@gmail.com\n"></TextView>
+    </ScrollView>
+
+</RelativeLayout>
